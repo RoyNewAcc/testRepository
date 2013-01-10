@@ -12,7 +12,7 @@
 //On the command line
 //input: node reverseFileContent.js reverseFileContent rev.txt
 //input: node reverseFileContent.js rev.txt bkrevd.txt
-//then open file rev.txt and bkrevd.txt, to compare them...
+//then open file reverseFileContent.js and bkrevd.txt, to compare them...
 
 var fshandle = require('fs');
 var buffer = new Buffer(1025);
