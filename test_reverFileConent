@@ -1,3 +1,0 @@
-node reverseFileContent.js reverseFileContent.js rev.txt
-node reverseFileContent.js rev.txt bkrevd.txt
-diff reverseFileContent.js bkrevd.txt
