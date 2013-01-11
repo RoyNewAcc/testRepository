@@ -1,0 +1,1 @@
+console.log("%s:%d","I love you javascript:", 100);
