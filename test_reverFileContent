@@ -1,0 +1,3 @@
+node reverseFile.js reverseFile.js rev.txt
+node reverseFile.js rev.txt bkrevd.txt
+diff reverseFile.js bkrevd.txt
